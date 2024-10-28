@@ -13,7 +13,7 @@ Para hacerlo correctamente, sigue estos pasos:
 ```bash
 sudo visudo
 ```
-> [!STEEP 3]
+> [!STEEP 2]
 > Agrega la línea al archivo que se abre en el editor. Esto debe hacerse en una línea separada en el archivo sudoers.
 ```bash
 <username> ALL=(ALL) NOPASSWD:ALL
