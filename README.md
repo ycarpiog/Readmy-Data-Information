@@ -1,10 +1,10 @@
-# Readmy-Data-Information
-My Data Information
-
-<h1 align="center">:shipit: El mensaje de error indica que intentaste ejecutar directamente el comando ultimate ALL=(ALL) NOPASSWD:ALL en la terminal, pero esa línea debe colocarse en el archivo de configuración de sudoers, no en la línea de comandos.</h1>
-
 
 # Readmy-Data-Information 
+
+
+<h1 align="center">:shipit:  <USER> ALL=(ALL) NOPASSWD:ALL en la terminal, pero esa línea debe colocarse en el archivo de configuración de sudoers, no en la línea de comandos.</h1>
+
+
 Para hacerlo correctamente, sigue estos pasos:
 
 
