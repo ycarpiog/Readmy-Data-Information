@@ -1,0 +1,15 @@
+
+ sudo apt-get update
+ sudo apt-get install nmap
+ nmap -sn 192.168.3.0/24
+ 
+sudo apt-get install arp-scan
+sudo arp-scan --interface=eth0 --localnet
+
+sudo apt-get install arp-scan
+nmap -sn 192.168.3.0/24
+sudo arp-scan --interface=enx606d3cdf6c83 --localnet
+
+sudo apt install snmp snmp-mibs-downloader
+snmpwalk -v1 -c public 192.168.0.0 Get Mibsa
+ 
