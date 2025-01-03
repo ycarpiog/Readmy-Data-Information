@@ -12,6 +12,8 @@
 
 > [!CAUTION]
 > Negative potential consequences of an action.
+
+
 sudo apt-get install netdiscover
 sudo netdiscover -r 192.168.3.0/24
 
