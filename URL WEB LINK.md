@@ -31,6 +31,12 @@ https://app.chartdb.io/
 
 > [!chartdb]
 > Dokploy
+> Alternativa de código abierto de Vercel, Heroku y Netlify
+
+✓ Despliega tus proyectos en cualquier servidor
+✓ Administra bases de datos y backups fácil
+✓ Integración con GitHub y UI moderna
+
 ```bash
 https://github.com/Dokploy/dokploy
 ```
