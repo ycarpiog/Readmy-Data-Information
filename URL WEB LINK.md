@@ -32,6 +32,6 @@ https://app.chartdb.io/
 > [!chartdb]
 > Dokploy
 ```bash
-[https://app.chartdb.io/](https://github.com/Dokploy/dokploy)
+https://github.com/Dokploy/dokploy
 ```
 
