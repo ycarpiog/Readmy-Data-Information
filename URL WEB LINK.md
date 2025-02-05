@@ -51,4 +51,3 @@ https://app.chartdb.io/](https://www.youtube.com/watch?v=dt3k0akbjT0
 ```bash
 https://doc.owncloud.com/server/10.14/admin_manual/installation/docker/
 ```
-
