@@ -58,4 +58,10 @@ https://doc.owncloud.com/server/10.14/admin_manual/installation/docker/
 https://resend.com/features/email-api
 ```
 
+> 4000+ Animated Icons for the Modern Web
+
+```bash
+https://animatedicons.co
+```
+
  
