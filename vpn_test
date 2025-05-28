@@ -1,0 +1,22 @@
+sudo apt update
+sudo apt install openvpn
+Ejecutar el archivo .ovpn
+sudo openvpn --config ruta/al/archivo.ovpn
+
+
+En Linux, puedes ejecutar OpenVPN en segundo plano con:
+sudo openvpn --daemon --config archivo.ovpn
+
+Para ejecutarlo al inicio del sistema, mueve el archivo a /etc/openvpn/ y habilita el servicio:
+sudo systemctl enable --now openvpn@nombre-del-archivo
+
+
+Verificar si OpenVPN está activo:
+sudo systemctl status openvpn
+
+Ver procesos en segundo plano:
+ps aux | grep openvpn
+
+
+sudo systemctl stop openvpn  # Detener servicio
+sudo pkill openvpn          # Terminar proceso manual
