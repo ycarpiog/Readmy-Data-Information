@@ -1,0 +1,20 @@
+# 1. Listar distribuciones instaladas
+wsl --list --verbose
+
+# 2. Exportar la distribución a un archivo .tar
+wsl --export Ubuntu D:\wsl\ubuntu-backup.tar
+
+# 3. Desregistrar la distribución actual
+wsl --unregister Ubuntu
+
+# 4. Crear directorio en D: para WSL
+mkdir D:\wsl\ubuntu
+
+# 5. Importar la distribución en la nueva ubicación
+wsl --import Ubuntu D:\wsl\ubuntu D:\wsl\ubuntu-backup.tar --version 2
+
+# 6. Establecer usuario por defecto (importante!)
+ubuntu config --default-user tu_usuario
+
+# 7. Eliminar el archivo backup para ahorrar espacio
+rm D:\wsl\ubuntu-backup.tar
