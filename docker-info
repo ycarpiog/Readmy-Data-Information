@@ -1,1 +1,2 @@
 docker images --format "{{.Repository}} {{.Tag}} {{.ID}} {{.Size}}"
+docker exec -it -u 0 <NOMBRE_O_ID> sh
