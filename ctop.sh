@@ -23,3 +23,6 @@ sudo systemctl status docker
 sudo docker run hello-world  # Debería mostrar un mensaje de éxito
 sudo usermod -aG docker $USER
 newgrp docker
+
+
+docker ps --format "{{.ID}}: {{.Names}}"
