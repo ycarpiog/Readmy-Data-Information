@@ -76,5 +76,10 @@ https://animatedicons.co
 
 
 
+> Svg Page
+
+```bash 
+https://svgl.app/
+```
 
  
