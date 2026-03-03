@@ -95,6 +95,12 @@ https://svgl.app/
 https://github.com/jamiepine/voicebox
 ```
 
+>The Open Agent Skills Ecosystem
+
+```bash 
+https://skills.sh/
+```
+
 
  
  
