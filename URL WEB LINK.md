@@ -100,7 +100,11 @@ https://github.com/jamiepine/voicebox
 ```bash 
 https://skills.sh/
 ```
+>Effortless Web Scraping for the Modern Web
+
+```bash 
+ https://github.com/D4Vinci/Scrapling
+```
 
 
- 
  
