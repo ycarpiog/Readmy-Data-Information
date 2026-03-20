@@ -112,5 +112,11 @@ https://skills.sh/
 https://drawdb.vercel.app/
 ```
 
+>Effortless Web Scraping for the Modern Web
+
+```bash
+https://skillsmp.com/
+```
+
 
  
