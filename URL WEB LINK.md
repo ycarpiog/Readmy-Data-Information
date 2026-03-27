@@ -117,6 +117,12 @@ https://drawdb.vercel.app/
 ```bash
 https://skillsmp.com/
 ```
+>VibeVoice
+
+```bash
+https://github.com/microsoft/VibeVoice
+```
+
 
 
  
