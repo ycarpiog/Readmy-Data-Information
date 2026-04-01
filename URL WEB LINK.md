@@ -122,6 +122,11 @@ https://skillsmp.com/
 ```bash
 https://github.com/microsoft/VibeVoice
 ```
+>VibeVoice
+
+```bash
+https://calltoinspiration.com/
+```
 
 
 
