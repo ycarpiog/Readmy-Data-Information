@@ -128,6 +128,10 @@ https://github.com/microsoft/VibeVoice
 https://calltoinspiration.com/
 ```
 
+>df_inspector
 
+```bash
+https://github.com/firecrawl/pdf-inspector
+```
 
  
