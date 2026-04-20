@@ -133,5 +133,9 @@ https://calltoinspiration.com/
 ```bash
 https://github.com/firecrawl/pdf-inspector
 ```
+>icones
 
+```bash
+https://icones.js.org/
+```
  
