@@ -138,4 +138,12 @@ https://github.com/firecrawl/pdf-inspector
 ```bash
 https://icones.js.org/
 ```
+>huggingface Supertone
+
+```bash
+https://huggingface.co/Supertone/supertonic-3
+```
+
+
+
  
